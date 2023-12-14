@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BDDDemo</name>
+   <tag>@sanity</tag>
+   <comment></comment>
+   <testCaseGuid>d1d5db46-c557-482b-8b75-aa94090ed671</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3575352-d771-4f49-8018-c98245660ffa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3575352-d771-4f49-8018-c98245660ffa</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

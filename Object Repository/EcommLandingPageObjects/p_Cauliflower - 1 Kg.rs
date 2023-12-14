@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Cauliflower - 1 Kg</name>
+   <tag></tag>
+   <elementGuidId>810ce63f-a057-4ab8-a1ed-8ce4da09b1e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.product-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/div/div[3]/div[2]/div/div/ul/li/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4bd4f9aa-8029-4645-977c-930bbe11eeed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>3b93bdb4-2773-43a7-9e90-a7fa872b7e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cauliflower - 1 Kg</value>
+      <webElementGuid>b353b1a9-fc5a-4581-94db-d05a7d8e14cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;cart&quot;]/div[@class=&quot;cart-preview active&quot;]/div[1]/div[1]/ul[@class=&quot;cart-items&quot;]/li[@class=&quot;cart-item&quot;]/div[@class=&quot;product-info&quot;]/p[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>35cbddab-c8fe-4c07-93c1-9134e52fb00d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div/div[3]/div[2]/div/div/ul/li/div/p</value>
+      <webElementGuid>4f23925d-2859-4698-82f6-247fca5de472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/following::p[1]</value>
+      <webElementGuid>234954ab-a440-4a7d-9f3b-35841ab9928c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::p[1]</value>
+      <webElementGuid>76accb94-9103-4ace-a28e-075db781cf4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROCEED TO CHECKOUT'])[1]/preceding::p[4]</value>
+      <webElementGuid>163b2e3a-0456-40b5-b1a1-640a33217696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cauliflower - 1 Kg'])[2]/preceding::p[4]</value>
+      <webElementGuid>ce52cd7b-bd93-4f75-81c6-ad3834dcc3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cauliflower - 1 Kg']/parent::*</value>
+      <webElementGuid>98aa6b08-8f19-4a70-b63f-f3abf2899115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>0a2fcb58-78c0-4553-9331-6be8de4e8e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Cauliflower - 1 Kg' or . = 'Cauliflower - 1 Kg')]</value>
+      <webElementGuid>d76976b5-ea7b-4373-a8e0-42c1b7b6d6b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

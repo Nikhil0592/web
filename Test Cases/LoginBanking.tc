@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginBanking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d9d6286-4ec8-4e42-a9db-5400fdab67ec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>310ca492-fe59-489a-84b2-33b45928b43b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>174b5038-8f54-4f51-bf59-213495e93cb7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'jsmith'</defaultValue>
+      <description></description>
+      <id>310ca492-fe59-489a-84b2-33b45928b43b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'KuC5M6xKe5uvO/soexOEDQ=='</defaultValue>
+      <description></description>
+      <id>174b5038-8f54-4f51-bf59-213495e93cb7</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>
